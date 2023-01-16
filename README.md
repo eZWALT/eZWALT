@@ -1,5 +1,5 @@
 ## eZWALT
 
-What's up im Walter , welcome to my repositories!
+What's up, I'm Walter , welcome to my repositories!
 
 
