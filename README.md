@@ -1,11 +1,11 @@
 ### <div align="center">I'm Walter Troiani, a Computer-and-Data Scientist and Compiler Engineer 👨‍💻  Programming since 2018 🚀</div>  
-  
+
+  I am a passionate computer science graduate and future MSc in Data Science and Engineering with a strong background in data science and compiler technology. My journey began with a fascination for technology (Pokemon and the architecture of handheld devices) and has led to hands-on experience in machine learning and open-source projects. I thrive in innovative environments and am driven by a desire to create impactful technologies. Outside of work, I enjoy weightlifting, playing the piano, exploring new languages and spending time in nature. My strengths include curiosity, problem-solving, and a commitment to continuous growth.
 
 - 🔭 I’m currently working on [Trojan](https://github.com/eZWALT/Trojan), my own programming language.
   
   
-
-- 🌱 I’m currently learning Rust, Swift, Mojo and Go.  Also Kubernetes and advanced ML and statistics.  
+- 🌱 I’m currently learning **Rust**, Swift, Mojo and Go.  Also Kubernetes and advanced ML and statistics.  
   
 
 - 💬 Ask me anything about compilers, machine learning or GYM.  
@@ -115,15 +115,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ezwalt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ezwalt&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+
+## 📊 Languages Used
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezwalt&layout=compact&theme=radical&hide=html" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
