@@ -2,10 +2,10 @@
 
   I am a passionate computer science graduate and future MSc in Data Science and Engineering with a strong background in data science and compiler technology. My journey began with a fascination for technology (Pokemon and the architecture of handheld devices) and has led to hands-on experience in machine learning and open-source projects. I thrive in innovative environments and am driven by a desire to create impactful technologies. Outside of work, I enjoy weightlifting, playing the piano, exploring new languages and spending time in nature. My strengths include curiosity, problem-solving, and a commitment to continuous growth.
 
-- 🔭 I’m currently working on [Trojan](https://github.com/eZWALT/Trojan), my own programming language.
+- 🔭 I’m currently working on [Troiani](https://github.com/eZWALT/Troiani), my own programming language.
   
   
-- 🌱 I’m currently learning **Rust**, Swift, Mojo and Go.  Also Kubernetes and advanced ML and statistics.  
+- 🌱 I’m currently learning **Rust**, Swift, Mojo and Go.  Also compiler topics, statistics and advanced ML.  
   
 
 - 💬 Ask me anything about compilers, machine learning or GYM.  
