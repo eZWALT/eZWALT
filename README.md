@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Troiani](https://github.com/eZWALT/Troiani), my own programming language.
   
   
-- 🌱 I’m currently learning **Rust**, Swift, Mojo and Go.  Also compiler topics, statistics and advanced ML.  
+- 🌱 I’m currently learning **Rust** and Swift.  Also statistics, Advanced ML, deep learning compilers and machine learning based compiler optimizations.
   
 
 - 💬 Ask me anything about compilers, machine learning or GYM.  
