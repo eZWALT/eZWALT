@@ -2,10 +2,10 @@
 
   I am a passionate computer science graduate and future MSc in Data Science and Engineering with a strong background in data science and natural language processing. My journey began with a fascination for technology (Pokemon and the architecture of handheld devices) and has led to hands-on experience in machine learning and open-source projects. I thrive in innovative environments and am driven by a desire to create impactful technologies. Outside of work, I enjoy weightlifting, calisthenics, playing the piano, exploring new languages and spending time in nature. My strengths include curiosity, problem-solving, and a commitment to continuous growth.
 
-- 🔭 I’m currently working on [Troiani](https://github.com/eZWALT/Troiani), my own programming language.
+- 🔭 I’m currently working on my own LLM twin, Self-Improvement MCP project, RLHF for the most pedantic LLM ever, Computer vision calorie approximator and [Troiani](https://github.com/eZWALT/Troiani), my own programming language (For now deprioritized)
   
   
-- 🌱 I’m currently learning computer vision, RL, and state of the art AI techniques for NLP: **MCP**, **Agentic RAG**, **Agents**.
+- 🌱 I’m currently learning computer vision, RL, and state of the art AI techniques for NLP: **RLHF**, **LLM Fine tuning**, **MCP**, **Agentic RAG**, **Agents**.
   
 
 - 💬 Ask me anything about AI or GYM.  
