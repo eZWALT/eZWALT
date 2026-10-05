@@ -14,9 +14,7 @@
 
 <br/>
 
-I build the machinery that trains and serves models: GPUs, clusters, storage, and the platform on top. When something is slow, expensive, or broken, I go down the stack until it isn't.
-
-Right now that means the AI infrastructure at **[Speridlabs](https://speridlabs.com)**, a spatial AI lab building foundation models for the 3D world.
+I work on the infrastructure that trains and serves models: GPUs, clusters, storage, and the platform on top. Currently building it from day one at **[Speridlabs](https://speridlabs.com)**, a spatial AI lab working on foundation models for the 3D world.
 
 ## 🛣️ The road here
 
@@ -60,8 +58,7 @@ B.Sc. in Computer Science at UPC. International double M.Sc. in Data Science at 
 
 ## 🌍 Outside the terminal
 
-- 🏋️ Weightlifting and calisthenics most mornings.
-- 💃 Salsa, 🎹 piano, 🌲 and as much nature as I can get.
+- 🏋️ Gym, calisthenics, BJJ, bouldering, marathon running, salsa, piano, and as much nature as I can get.
 - 🗣️ Spanish, Catalan, Italian, and English. Learning German and Ukrainian.
 - 🎁 Savouring the gift of life.
 - ⚡ [The indomitable human spirit and its will, will always persevere against the cruel indifference of the world.](https://www.youtube.com/watch?v=hpVH_lcACAY)
