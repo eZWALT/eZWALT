@@ -2,7 +2,7 @@
 
 # Walter J. Troiani Vargas
 
-<a href="https://ezwalt.github.io"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=24&duration=3200&pause=900&color=AD2111&center=true&vCenter=true&width=720&lines=Founding+AI+Infrastructure+Engineer+%40+Speridlabs;GPUs+%C2%B7+clusters+%C2%B7+world+models;AI+enthusiast+and+life-long+learner" alt="Founding AI Infrastructure Engineer at Speridlabs" /></a>
+<a href="https://ezwalt.github.io"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=24&duration=3200&pause=900&color=AD2111&center=true&vCenter=true&width=820&lines=Founding+AI+Infrastructure+Engineer+%40+Speridlabs;LLMs+%C2%B7+AI+%C2%B7+GPUs+%C2%B7+clusters+%C2%B7+world+models;Life-long+learner" alt="Founding AI Infrastructure Engineer at Speridlabs" /></a>
 
 <a href="https://speridlabs.com"><img src="https://img.shields.io/badge/Speridlabs-Founding_AI_Infra-AD2111?style=for-the-badge" alt="Speridlabs" /></a>
 <a href="https://ezwalt.github.io"><img src="https://img.shields.io/badge/The_Scaling_Journey-f7f6f3?style=for-the-badge&logoColor=282828" alt="The Scaling Journey" /></a>
